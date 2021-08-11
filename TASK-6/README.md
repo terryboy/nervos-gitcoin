@@ -1,3 +1,6 @@
+A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+
+<img width="669" alt="deployed layer2" src="https://user-images.githubusercontent.com/29853600/128964861-d6f16d19-7f48-453d-9676-fd96d5109ce2.png">
 
 
 The Ethereum address used to generate the Deposit Receiver Address (in text format):
