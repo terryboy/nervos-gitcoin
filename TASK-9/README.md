@@ -1,6 +1,6 @@
 
 A screenshot of the console output immediately after running the withdraw command.
-<img width="671" alt="withdraw" src="https://user-images.githubusercontent.com/29853600/128966337-be4b680f-3638-4f94-8195-b4eb5c01f37c.png">
+<img width="672" alt="withdraw" src="https://user-images.githubusercontent.com/29853600/128971079-f7b44dea-1245-4198-82af-ab2bcc3cca2d.png">
 
 
 
