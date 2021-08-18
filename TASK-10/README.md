@@ -2,7 +2,8 @@
 
 A screenshot of the console output immediately after running the "unlock" command.
 
-<img width="672" alt="withdraw cell png" src="https://user-images.githubusercontent.com/29853600/128970574-817aaed0-c07f-4afd-81da-e36a158fca62.png">
+<img width="726" alt="withdraw cell png" src="https://user-images.githubusercontent.com/29853600/129844272-8434be0c-f770-4a53-9d80-c602c2d5a6a6.png">
+
 
 The Ethereum address that you've used for your Layer 2 account (in text format).
 
